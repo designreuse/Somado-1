@@ -9,6 +9,7 @@ W folderze dist umieszczono skompresowany plik bazy SQLite + Spatialite, zawiera
 ### Konfiguracja 
 - Import bazy danych MySQL (plik mysql_dump.sql.zip w folderze dist)
 - Ustawienie dostępu do bazy MySQL, ew. zmiana serwera TMS i współrzędnych obsługiwanego obszaru w pliku dist/conf.add.properties
+- Rozpakowanie lokalnej bazy danych przestrzennych do katalogu z archiwum jar (plik dist/roads.sqlite.zip)
 - Windows: rozpakowanie bibliotek DLL do katalogu z archiwum jar (plik dist/windows_dll.zip)
 
 ----------
